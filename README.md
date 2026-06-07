@@ -1,5 +1,5 @@
 # AuroraVault Financial Data Warehouse
-
+The video for the project is on this drive:https://drive.google.com/drive/folders/1EEFgNA0bJzrklV3K_5Xg4UyHw0-AzmGP?usp=drive_link
 AuroraVault is a compact, runnable data warehouse for financial markets data. It follows the lab's conceptual model and schema:
 
 - `FinancialInstrument`
